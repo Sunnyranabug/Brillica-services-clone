@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Active{
+    color: white;
+    background-color: #083344;
+    border: 1px solid black;
+}
